@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm an accounting & Information Systems Double Major! Even though I will sadly be wrapped up in the public accounting realm, I have a deep interest in coding and have been improving my intermediate skills in Python, SQL, and dabbling in a little with maybe Java, C++, etc.
+
+Pronouns are he/him
 <!--
 **sultanofmd/sultanofmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
